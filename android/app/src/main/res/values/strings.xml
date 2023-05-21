@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ComboBook</string>
+    <string name="title_activity_main">ComboBook</string>
+    <string name="package_name">dev.ninjabunny.combobook</string>
+    <string name="custom_url_scheme">dev.ninjabunny.combobook</string>
+</resources>
